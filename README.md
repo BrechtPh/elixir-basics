@@ -24,3 +24,7 @@ Thanks to [Frederic Vogels](https://github.com/fvogels) for all the effort in cr
 These exercises were originally created for the course Distributed Applications / Internet Programming major at [UCLL](https://www.ucll.be/). Most of this content is thus sponsored by UCLL.
 
 An extra thanks for every contributor, student and the Elixir community.
+
+## Note
+
+This project is part of the [elixir learning materials](https://github.com/WannesFransen1994/elixir-learning-materials) repository.
