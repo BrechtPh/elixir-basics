@@ -2,7 +2,7 @@
 
 ## Goal
 
-In this course we'll cover the basics of Elixir. We'll start with some fundamentals and a script-based approach (more about this in [Usage](#usage)).The topics are listed under [Topics](#topics), which will be a short summary of what is covered in this repository.
+In this course we'll cover the basics of Elixir. We'll start with some fundamentals and a script-based approach (more about this in [Usage](#usage)). The topics are listed under [Topics](#topics), which will be a short summary of what is covered in this repository.
 
 ## Usage
 
